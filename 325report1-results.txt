@@ -1,0 +1,144 @@
+
+
+
+
+MEMBER_FNAME    MEMBER_LNAME                   RENTAL_FEE                       
+--------------- ------------------------------ ----------                       
+Cristian        Javier Alas                          70.6                       
+Cristian        Javier Alas                          70.6                       
+George          Allochuku                          186.99                       
+John            Abalos                               70.7                       
+Laken           Abenoja                             265.9                       
+Mario           Aguirre                            399.65                       
+Marlyn          Aguilera                             70.5                       
+Nayely          Aguilar                             77.27                       
+Nina            Aguilar                             293.9                       
+Vanessa         Marie Allen                           111                       
+
+10 rows selected.
+
+
+problem 3
+
+
+MEMBER_FNAME    MEMBER_LNAME                   RENTAL_FEE                       
+--------------- ------------------------------ ----------                       
+Cristian        Javier Alas                          70.6                       
+Cristian        Javier Alas                          70.6                       
+George          Allochuku                          186.99                       
+John            Abalos                               70.7                       
+Laken           Abenoja                             265.9                       
+Mario           Aguirre                            399.65                       
+Marlyn          Aguilera                             70.5                       
+Nayely          Aguilar                             77.27                       
+Nina            Aguilar                             293.9                       
+Vanessa         Marie Allen                           111                       
+
+                Member                                                          
+MEMBER_FNAME    last name                 RENTAL_FEE                            
+--------------- ------------------------- ----------                            
+Cristian        Javier Alas                     70.6                            
+Cristian        Javier Alas                     70.6                            
+George          Allochuku                     186.99                            
+John            Abalos                          70.7                            
+Laken           Abenoja                        265.9                            
+Mario           Aguirre                       399.65                            
+Marlyn          Aguilera                        70.5                            
+Nayely          Aguilar                        77.27                            
+Nina            Aguilar                        293.9                            
+Vanessa         Marie Allen                      111                            
+
+changing money sign
+
+
+                Member                                                          
+MEMBER_FNAME    last name                 Rental Fee                            
+--------------- ------------------------- ----------                            
+Cristian        Javier Alas                   $70.60                            
+Cristian        Javier Alas                   $70.60                            
+George          Allochuku                    $186.99                            
+John            Abalos                        $70.70                            
+Laken           Abenoja                      $265.90                            
+Mario           Aguirre                      $399.65                            
+Marlyn          Aguilera                      $70.50                            
+Nayely          Aguilar                       $77.27                            
+Nina            Aguilar                      $293.90                            
+Vanessa         Marie Allen                  $111.00                            
+
+
+
+
+                Member                                                          
+MEMBER_FNAME    last name                 Rental Fee                            
+--------------- ------------------------- ----------                            
+Cristian        Javier Alas                   $70.60                            
+                Javier Alas                   $70.60                            
+                                                                                
+George          Allochuku                    $186.99                            
+                                                                                
+John            Abalos                        $70.70                            
+                                                                                
+Laken           Abenoja                      $265.90                            
+                                                                                
+Mario           Aguirre                      $399.65                            
+                                                                                
+Marlyn          Aguilera                      $70.50                            
+                                                                                
+Nayely          Aguilar                       $77.27                            
+                                                                                
+Nina            Aguilar                      $293.90                            
+                                                                                
+Vanessa         Marie Allen                  $111.00                            
+                                                                                
+
+compute
+
+
+                Member                                                          
+MEMBER_FNAME    last name                 Rental Fee                            
+--------------- ------------------------- ----------                            
+Cristian        Javier Alas                   $70.60                            
+                Javier Alas                   $70.60                            
+                                                                                
+George          Allochuku                    $186.99                            
+                                                                                
+John            Abalos                        $70.70                            
+                                                                                
+Laken           Abenoja                      $265.90                            
+                                                                                
+Mario           Aguirre                      $399.65                            
+                                                                                
+Marlyn          Aguilera                      $70.50                            
+                                                                                
+Nayely          Aguilar                       $77.27                            
+                                                                                
+Nina            Aguilar                      $293.90                            
+                                                                                
+Vanessa         Marie Allen                  $111.00                            
+                                                                                
+
+skip
+
+
+                Member                                                          
+MEMBER_FNAME    last name                 Rental Fee                            
+--------------- ------------------------- ----------                            
+Cristian        Javier Alas                   $70.60                            
+                Javier Alas                   $70.60                            
+                                                                                
+George          Allochuku                    $186.99                            
+                                                                                
+John            Abalos                        $70.70                            
+                                                                                
+Laken           Abenoja                      $265.90                            
+                                                                                
+Mario           Aguirre                      $399.65                            
+                                                                                
+Marlyn          Aguilera                      $70.50                            
+                                                                                
+Nayely          Aguilar                       $77.27                            
+                                                                                
+Nina            Aguilar                      $293.90                            
+                                                                                
+Vanessa         Marie Allen                  $111.00                            
+                                                                                

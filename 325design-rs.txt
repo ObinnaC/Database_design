@@ -1,0 +1,63 @@
+-- Obi Chukwuemeka 
+
+-- CS 325 -Fall 2021
+
+-- Last date modified 11/19/2021
+
+Club_memeber(MEMBER_NUM, member_fname, member_lname, is_player, is_staff, member_type)
+
+Email_CM(MEMBER_EMAIL, MEMBER_NUM)
+	foreign key (member_num) references Club_member
+
+Phonenum_CM(MEMBER_PHONENUM, MEMBER_NUM)
+	foreign key (member_num) references Club_member
+Staff(STAFF_IDNUM, member_num, staff_role, staff_hr_paid)
+
+	foreign key (member_num) references Club_member
+Field(RENTAL_NUM, member_num, rental_fee, rental_date, return_date)
+	foreign key (member_num) references Club_member
+
+Game(GAME_ID, game_score, game_date, skill_level, start_time, end_time, game_type)
+
+Instructor_coach(COACH_IDNUM, coach_fname, coach_lname, game_id)
+	foreign key (game_id) references Game
+
+Phonenum_C(COACH_IDNUM, COACH_PHONENUM)
+	foreign key (coach_idnum) references Instructor_coach
+
+Course_Enroll(COURSE_ID, PLAYER_ID)
+	foreign key (course_id) references Course
+        foreign key (player_id) references player
+Course(COURSE_ID, coach_idnum, course_title, room_num)
+	foregin key (coach_idnum) references Instructor_coach
+
+Player(PLAYER_ID, player_birthdate, player_gender, is_guess, is_family, is_friend, player_type)
+
+Position_played(MEMBER_NUM, PLAYER_POSITION)
+	foreign key (member_num) references Club_member
+
+Injury_record(INJURY_ID, descripion)
+
+Injury_record_log(INJURY_ID, GAME_ID)
+	foreign key (game_id) references Game
+	foreign key (injury_id) references Injury_record
+
+injury_record_sign_up(INJURY_ID, PLAYER_ID)
+	foreign key (player_id) references Player
+	foreign key (injury_id) references Injury_record
+
+Team(TEAM_IDNUM, team_name, team_color, game_id)
+	foreign key (game_id) references Game 
+
+Plays_for_Team(TEAM_IDNUM, PLAYER_ID)
+	foreign key (player_id) references Player
+	foreign key (team_idnum) references Team
+
+Guess(PLAYER_ID, GUESS_ID, guess_dl)
+	foreign key (player_id) references Player
+
+Family(PLAYER_ID, attendance)
+	foreign key (player_id) references Player
+
+Friend(PLAYER_ID, year_joined)
+	foreign key (player_id) references Player

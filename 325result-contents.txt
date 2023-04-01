@@ -1,0 +1,757 @@
+
+list of member of the club, they could be staff or players
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER MEMBER_FNAME    MEMBER_LNAME                   IS_PLA IS_STA ME     
+------ --------------- ------------------------------ ------ ------ --     
+843357 John            Abalos                         True   False  M      
+678983 Laken           Abenoja                        True   False  M      
+591350 Justin          Abrams                         True   True   M      
+988161 Nayely          Aguilar                        False  True   F      
+390097 Nina            Aguilar                        False  True   F      
+949393 Marlyn          Aguilera                       True   False  F      
+290274 Mario           Aguirre                        False  True   M      
+969425 Cristian        Javier Alas                    False  True   M      
+829725 Vanessa         Marie Allen                    True   True   F      
+482851 George          Allochuku                      True   False  M      
+169218 Luis            Alvarado                       True   False  M      
+593109 Daniella        Alvarez                        True   False  F      
+598298 Jonathan        Alvarez                        True   False  M      
+645472 Sabrena         Alves                          True   False  F      
+073960 Maria           Amaya                          True   False  F      
+619971 Mayra           Amaya                          True   False  F      
+621029 Rebecca         Anaya-Lopez                    True   False  F      
+382608 Darius          Anderson                       True   False  M      
+428103 Norma           Anguiano Parra                 True   False  F      
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of field rental by any club member
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+RENTAL MEMBER RENTAL_FEE RENTAL_DA RETURN_DA                               
+------ ------ ---------- --------- ---------                               
+089700 482851     186.99 05-APR-18 10-APR-18                               
+559828 290274     399.65 08-JUN-18 16-JUN-18                               
+507865 829725        111 21-JUL-18 26-JUL-18                               
+096112 969425       70.6 23-OCT-18 24-OCT-18                               
+096117 969425       70.6 23-OCT-18 24-OCT-18                               
+385547 678983      265.9 19-FEB-19 10-MAR-19                               
+163922 390097      293.9 20-DEC-19 12-JAN-19                               
+901978 843357       70.7 16-MAR-21 17-MAR-21                               
+243073 988161      77.27 05-APR-21 06-APR-21                               
+634737 949393       70.5 10-OCT-21 11-OCT-21                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list club member and their emails. They could have multiples email.
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER_EMAIL                        MEMBER                                 
+----------------------------------- ------                                 
+ahmad@verizon.net                   843357                                 
+bart_ohara35@hotmail.com            428103                                 
+bogjobber@sbcglobal.net             843357                                 
+elmer.will36@hotmail.com            598298                                 
+ervin.pacocha0@gmail.com            382608                                 
+fabiola.deckow60@hotmail.com        619971                                 
+facet@aol.com                       829725                                 
+german74@hotmail.com                593109                                 
+gslondon@outlook.com                290274                                 
+haleigh_cassin64@hotmail.com        169218                                 
+isaacson@icloud.com                 290274                                 
+johnson65@yahoo.com                 645472                                 
+julio.senger20@hotmail.com          073960                                 
+mfburgo@icloud.com                  390097                                 
+miturria@gmail.com                  482851                                 
+overbom@aol.com                     949393                                 
+psharpe@yahoo.ca                    988161                                 
+rgarcia@optonline.net               591350                                 
+sean79@hotmail.com                  621029                                 
+sequin@optonline.net                678983                                 
+wojciech@optonline.net              969425                                 
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of club member and their phonenumbers. They could have multiples phone#.
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER_PHONENUM                               MEMBER                       
+--------------------------------------------- ------                       
+0649731                                       988161                       
+1549173                                       678983                       
+1751264                                       593109                       
+2256133                                       591350                       
+3350399                                       169218                       
+3535736                                       645472                       
+3974693                                       619971                       
+4373692                                       482851                       
+4445475                                       969425                       
+5247741                                       598298                       
+5572561                                       843357                       
+5637813                                       829725                       
+5780732                                       073960                       
+5872559                                       390097                       
+6445652                                       290274                       
+8112202                                       428103                       
+8548242                                       382608                       
+8626295                                       621029                       
+9092338                                       390097                       
+9104632                                       969425                       
+9425058                                       949393                       
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of club member who are consider staff of the club.
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+STAFF_I MEMBER STAFF_ROLE                               STAFF_HR_PAID      
+------- ------ ---------------------------------------- -------------      
+WB6IOTC 591350 Recreation Coordinator                              17      
+C7LPT10 390097 manager                                             26      
+6POZU2D 829725 front desk clerk                                    15      
+75UC4AJ 969425 Referee                                             24      
+Z797ZXZ 290274 Supervisor                                          20      
+GK6PITP 988161 Security                                            20      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of game played, date played, skill level, start time, end time and game_type
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+GAME_I GA GAME_DATE SKILL_LEVEL     START_TIME      END_TIME               
+------ -- --------- --------------- --------------- ---------------        
+GAME_TYPE                                                                  
+-----------------------------------                                        
+43AT1N 5  26-JAN-09 Competitive     09:00           10:05                  
+Round Robin Double Split                                                   
+                                                                           
+WGRZYB 6  22-AUG-09 Recreational    10:45           11:45                  
+Single Elimination                                                         
+                                                                           
+G3EI0J 1  28-JUL-11 Intermediate    12:20           13:35                  
+Round Robin Quadruple Split                                                
+                                                                           
+9UPYW6 1  11-OCT-11 Recreational    14:20           15:45                  
+Double Elimination                                                         
+                                                                           
+B3TA3R 6  05-NOV-14 Competitive     09:20           10:25                  
+Straight Round Robin                                                       
+                                                                           
+QL2XSZ 3  05-NOV-14 Intermediate    09:30           11:40                  
+Round Robin Triple Split                                                   
+                                                                           
+Q2PBL0 2  23-JUL-20 Competitive     16:10           16:45                  
+Extended                                                                   
+                                                                           
+Q0XXA6 5  11-OCT-11 Intermediate    18:05           19:00                  
+Semi-Round Robins                                                          
+                                                                           
+NR4AH2 3  22-AUG-09 Recreational    17:25           18:40                  
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+Fri Dec 10                                                        page    2
+                                  CS 325 
+                             - Final project -
+
+GAME_I GA GAME_DATE SKILL_LEVEL     START_TIME      END_TIME               
+------ -- --------- --------------- --------------- ---------------        
+GAME_TYPE                                                                  
+-----------------------------------                                        
+Multilevel                                                                 
+                                                                           
+5JS23B 3  26-JAN-09 Intermediate    13:40           15:55                  
+Semi-Round Robins                                                          
+                                                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of instructor or coach names and game id for the game they teach or coach
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+COACH COACH_FNAME     COACH_LNAME     GAME_I                               
+----- --------------- --------------- ------                               
+27372 Elijah          Aquino          43AT1N                               
+25060 Salina          Aragon          WGRZYB                               
+15048 Gustavo         Araoz           G3EI0J                               
+58590 Nancy           Rauda           9UPYW6                               
+23133 Pablo           Arenivar        B3TA3R                               
+39526 Emerson         Argueta         QL2XSZ                               
+50697 Lucia           Arias           Q2PBL0                               
+79693 Dejanae         Ario            Q0XXA6                               
+75257 Errin           Arnold          NR4AH2                               
+61758 Samuel          Atueyichukwu    5JS23B                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list coach phone. They can have multiples phone#.
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+COACH COACH_PHONENUM                                                       
+----- ---------------------------------------------                        
+15048 1799542                                                              
+23133 1937588                                                              
+25060 1549268                                                              
+27372 S9087137                                                             
+39526 7514600                                                              
+50697 9808350                                                              
+58590 5828232                                                              
+61758 5838284                                                              
+75257 5457421                                                              
+79693 6814296                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+List of course taught at the club, instructor name, and course title, room num
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+COURSE COACH COURSE_TITLE              ROO                                 
+------ ----- ------------------------- ---                                 
+2FPT7W 61758 Inch by Inch              14                                  
+SQIIKT 75257 Raise the Bar             47                                  
+L1BDI9 79693 Barre 360                 73                                  
+H9DFV2 50697 One-Hundred Percent       92                                  
+FPKU7R 39526 Do the Hundred            75                                  
+05RP37 23133 Transform                 11                                  
+ZXQ6Q5 58590 Fierce Fest               38                                  
+OUZZN0 15048 Reboot                    85                                  
+DGKEY4 25060 Total Body Reset          87                                  
+PWZAPL 27372 One More Rep              90                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of player for club, player birthdate, if they are guess, family or friend in True or false
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+PLA PLAYER PLAYER_BI IS_ IS_ IS_                                           
+--- ------ --------- --- --- ---                                           
+931 678983 05-SEP-86 F   F   F                                             
+552 482851 15-JAN-93 T   T   T                                             
+928 829725 18-MAR-96 T   T   F                                             
+330 843357 18-APR-96 T   T   T                                             
+079 591350 14-FEB-98 F   F   F                                             
+215 949393 21-APR-01 F   T   T                                             
+046 382608 30-MAY-01 T   T   F                                             
+923 169218 23-SEP-02 F   T   T                                             
+660 645472 21-JAN-01 F   T   T                                             
+121 073960 19-NOV-01 F   F   T                                             
+903 598298 21-SEP-99 F   T   F                                             
+196 593109 17-JUL-98 T   T   F                                             
+444 619971 21-AUG-89 T   T   F                                             
+182 428103 02-OCT-01 T   T   F                                             
+685 621029 21-OCT-95 F   F   T                                             
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of player enroll in course offered at the club
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+COURSE PLA                                                                 
+------ ---                                                                 
+2FPT7W 685                                                                 
+SQIIKT 196                                                                 
+L1BDI9 660                                                                 
+H9DFV2 903                                                                 
+FPKU7R 923                                                                 
+05RP37 121                                                                 
+ZXQ6Q5 444                                                                 
+OUZZN0 182                                                                 
+DGKEY4 046                                                                 
+PWZAPL 330                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list position played by players at the club ( name of position played) MV
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER PLAYER_POSITION                                                     
+------ ------------------------------                                      
+073960 Left Mid                                                            
+169218 Right Mid                                                           
+382608 Sweeper (RARE)                                                      
+428103 Defensive Mid                                                       
+428103 Striker                                                             
+482851 Wing Backs                                                          
+591350 Defensive Mid                                                       
+593109 Center Forward                                                      
+593109 Center Mid                                                          
+593109 Striker                                                             
+598298 Goalkeeper                                                          
+619971 Center back                                                         
+621029 Center Forward                                                      
+645472 Left Mid                                                            
+645472 Striker                                                             
+678983 Attacking Mid                                                       
+678983 Center Mid                                                          
+829725 Center Mid                                                          
+843357 Wingers                                                             
+949393 Full Back                                                           
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of injury that occur during a game. Description of the injury and game occurred
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+INJURY DESCRIPTION                                                  PLA    
+------ ------------------------------------------------------------ ---    
+GAME_I                                                                     
+------                                                                     
+4sf1fu Ankle sprain                                                 121    
+43AT1N                                                                     
+                                                                           
+a4mw9j Knee sprain                                                  903    
+WGRZYB                                                                     
+                                                                           
+spxupn Calf strains                                                 196    
+G3EI0J                                                                     
+                                                                           
+okt5hu Concussion                                                   444    
+9UPYW6                                                                     
+                                                                           
+vljxfe Meniscal tear                                                182    
+B3TA3R                                                                     
+                                                                           
+65dbgw Meniscal tear                                                685    
+QL2XSZ                                                                     
+                                                                           
+udzut9 Calf strains                                                 660    
+Q2PBL0                                                                     
+                                                                           
+pwo0nn Ankle sprain                                                 923    
+Q0XXA6                                                                     
+                                                                           
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of players who actually sign up for at the injury log when it occurred
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+INJURY PLA                                                                 
+------ ---                                                                 
+vljxfe 182                                                                 
+udzut9 660                                                                 
+a4mw9j 903                                                                 
+65dbgw 685                                                                 
+pwo0nn 923                                                                 
+okt5hu 444                                                                 
+4sf1fu 121                                                                 
+spxupn 196                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of team name at the club, oppononet is not list if not part of the club.
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+TEAM_I TEAM_NAME       TEAM_COLOR GAME_I                                   
+------ --------------- ---------- ------                                   
+vylRhL Slow Pokes      White      43AT1N                                   
+tpkyqp The A Team      Dark       WGRZYB                                   
+ge6lQY Wolves FC       sliver     G3EI0J                                   
+6IQXIB Dream Team      yellow     9UPYW6                                   
+ZWgNFm Pandas FC       yellow     B3TA3R                                   
+PQszd6 Big Balls       Old Gold   QL2XSZ                                   
+ZKhsDN Back In Black   blue       Q2PBL0                                   
+ZtqlJb 707 Elite       skyblue    Q0XXA6                                   
+Gk2u2D Baba Yaga       Pink       NR4AH2                                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of player that plays for a team ( not quit finished)
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+PLA TEAM_I                                                                 
+--- ------                                                                 
+931 vylRhL                                                                 
+552 tpkyqp                                                                 
+928 ge6lQY                                                                 
+330 6IQXIB                                                                 
+079 ZWgNFm                                                                 
+215 PQszd6                                                                 
+046 ZKhsDN                                                                 
+923 ZtqlJb                                                                 
+660 Gk2u2D                                                                 
+121 Gk2u2D                                                                 
+903 Gk2u2D                                                                 
+196 Gk2u2D                                                                 
+444 Gk2u2D                                                                 
+182 Gk2u2D                                                                 
+685 Gk2u2D                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of guess that have played with a club member
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+GUESS_ GUESS_DL   PLA                                                      
+------ ---------- ---                                                      
+121904 M5748856   330                                                      
+809603 E9928645   046                                                      
+942177 S1021421   444                                                      
+907256 G4058666   928                                                      
+686337 M2857648   196                                                      
+802026 P5911900   121                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of famiy member that have played with a club member
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+ATT PLA                                                                    
+--- ---                                                                    
+95  552                                                                    
+64  928                                                                    
+13  330                                                                    
+19  215                                                                    
+8   046                                                                    
+80  923                                                                    
+30  660                                                                    
+65  903                                                                    
+12  196                                                                    
+21  444                                                                    
+2   182                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+list of friend that have played with a club member
+
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+YEAR_JOIN PLA                                                              
+--------- ---                                                              
+05-MAY-08 923                                                              
+15-JUL-08 121                                                              
+17-AUG-10 660                                                              
+23-JAN-18 215                                                              
+29-MAR-18 685                                                              
+18-AUG-18 046                                                              
+16-FEB-19 330                                                              
+13-SEP-21 552                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka

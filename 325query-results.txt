@@ -1,0 +1,382 @@
+
+query 1
+member first name and last name with email address.
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER_FNAME    MEMBER_LNAME                                               
+--------------- ------------------------------                             
+MEMBER_EMAIL                                                               
+-----------------------------------                                        
+John            Abalos                                                     
+ahmad@verizon.net                                                          
+                                                                           
+Norma           Anguiano Parra                                             
+bart_ohara35@hotmail.com                                                   
+                                                                           
+John            Abalos                                                     
+bogjobber@sbcglobal.net                                                    
+                                                                           
+Jonathan        Alvarez                                                    
+elmer.will36@hotmail.com                                                   
+                                                                           
+Darius          Anderson                                                   
+ervin.pacocha0@gmail.com                                                   
+                                                                           
+Mayra           Amaya                                                      
+fabiola.deckow60@hotmail.com                                               
+                                                                           
+Vanessa         Marie Allen                                                
+facet@aol.com                                                              
+                                                                           
+Daniella        Alvarez                                                    
+german74@hotmail.com                                                       
+                                                                           
+Mario           Aguirre                                                    
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+Fri Dec 10                                                        page    2
+                                  CS 325 
+                             - Final project -
+
+MEMBER_FNAME    MEMBER_LNAME                                               
+--------------- ------------------------------                             
+MEMBER_EMAIL                                                               
+-----------------------------------                                        
+gslondon@outlook.com                                                       
+                                                                           
+Luis            Alvarado                                                   
+haleigh_cassin64@hotmail.com                                               
+                                                                           
+Mario           Aguirre                                                    
+isaacson@icloud.com                                                        
+                                                                           
+Sabrena         Alves                                                      
+johnson65@yahoo.com                                                        
+                                                                           
+Maria           Amaya                                                      
+julio.senger20@hotmail.com                                                 
+                                                                           
+Nina            Aguilar                                                    
+mfburgo@icloud.com                                                         
+                                                                           
+George          Allochuku                                                  
+miturria@gmail.com                                                         
+                                                                           
+Marlyn          Aguilera                                                   
+overbom@aol.com                                                            
+                                                                           
+Nayely          Aguilar                                                    
+psharpe@yahoo.ca                                                           
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+Fri Dec 10                                                        page    3
+                                  CS 325 
+                             - Final project -
+
+MEMBER_FNAME    MEMBER_LNAME                                               
+--------------- ------------------------------                             
+MEMBER_EMAIL                                                               
+-----------------------------------                                        
+                                                                           
+Justin          Abrams                                                     
+rgarcia@optonline.net                                                      
+                                                                           
+Rebecca         Anaya-Lopez                                                
+sean79@hotmail.com                                                         
+                                                                           
+Laken           Abenoja                                                    
+sequin@optonline.net                                                       
+                                                                           
+Cristian        Javier Alas                                                
+wojciech@optonline.net                                                     
+                                                                           
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+query 2
+name of member first name in the club that doesn't play striking position
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER_FNAME                                                               
+---------------                                                            
+Maria                                                                      
+Luis                                                                       
+Darius                                                                     
+Norma                                                                      
+George                                                                     
+Justin                                                                     
+Daniella                                                                   
+Jonathan                                                                   
+Mayra                                                                      
+Rebecca                                                                    
+Sabrena                                                                    
+Laken                                                                      
+Vanessa                                                                    
+John                                                                       
+Marlyn                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+query 3
+I want to see if any club member are paying the same about of rental fee
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+RENTAL_FEE   QUANTITY                                                      
+---------- ----------                                                      
+    399.65          1                                                      
+     293.9          1                                                      
+     265.9          1                                                      
+    186.99          1                                                      
+       111          1                                                      
+     77.27          1                                                      
+      70.7          1                                                      
+      70.6          2                                                      
+      70.5          1                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+query 4
+show names and gender of member who are staff with paid less than avgerage
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER_FNAME    MEMBER_LNAME                   ME STAFF_HR_PAID            
+--------------- ------------------------------ -- -------------            
+Nayely          Aguilar                        F             20            
+Mario           Aguirre                        M             20            
+Justin          Abrams                         M             17            
+Vanessa         Marie Allen                    F             15            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+query 5
+user want to see if my we competitive enough to join
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+SKILL_LEVEL     GA GAME_TYPE                                               
+--------------- -- -----------------------------------                     
+Competitive     5  Round Robin Double Split                                
+Recreational    6  Single Elimination                                      
+Intermediate    1  Round Robin Quadruple Split                             
+Recreational    1  Double Elimination                                      
+Competitive     6  Straight Round Robin                                    
+Intermediate    3  Round Robin Triple Split                                
+Competitive     2  Extended                                                
+Intermediate    5  Semi-Round Robins                                       
+Recreational    3  Multilevel                                              
+Intermediate    3  Semi-Round Robins                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+query 6
+user want to keep track of good rental from the club
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+RENTAL MEMBER RENTAL_FEE RENTAL_DA RETURN_DA                               
+------ ------ ---------- --------- ---------                               
+089700 482851     186.99 05-APR-18 10-APR-18                               
+559828 290274     399.65 08-JUN-18 16-JUN-18                               
+507865 829725        111 21-JUL-18 26-JUL-18                               
+096112 969425       70.6 23-OCT-18 24-OCT-18                               
+096117 969425       70.6 23-OCT-18 24-OCT-18                               
+385547 678983      265.9 19-FEB-19 10-MAR-19                               
+163922 390097      293.9 20-DEC-19 12-JAN-19                               
+901978 843357       70.7 16-MAR-21 17-MAR-21                               
+243073 988161      77.27 05-APR-21 06-APR-21                               
+634737 949393       70.5 10-OCT-21 11-OCT-21                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+query 7
+user want all the memeber that are not male
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+MEMBER_FNAME    MEMBER_LNAME                                               
+--------------- ------------------------------                             
+Nayely          Aguilar                                                    
+Nina            Aguilar                                                    
+Marlyn          Aguilera                                                   
+Vanessa         Marie Allen                                                
+Daniella        Alvarez                                                    
+Sabrena         Alves                                                      
+Maria           Amaya                                                      
+Mayra           Amaya                                                      
+Rebecca         Anaya-Lopez                                                
+Norma           Anguiano Parra                                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
+
+query 8
+how many members do we have?
+SP2-0042: unknown command "propmt" - rest of line ignored.
+
+Fri Dec 10                                                        page    1
+                                  CS 325 
+                             - Final project -
+
+current # club_member                                                      
+---------------------                                                      
+                   19                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Indoor Soccer Club by Obi Chukwuemeka
